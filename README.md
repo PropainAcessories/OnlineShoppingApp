@@ -32,7 +32,7 @@
 
   🐔Run ```npm run seed``` in the terminal
 
-  🐔```npm start.``` to start the application.
+  🐔```npm start``` to start the application.
 
   ## Usage
   🐔It is intended to be the back-end of an ecommerce website.
